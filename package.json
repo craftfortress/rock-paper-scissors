@@ -1,17 +1,11 @@
 {
   "name": "rockpaperscissors",
   "version": "1.0.0",
-  "description": "Rock, paper Scissors for Ebay",
-  "main": "domain='www' server.js",
-  "scripts": {
-    "start": "node server" 
-  },
+  "description": "Rock, paper Scissors for Ebay", 
+  "scripts": {  },
   "author": "Chris",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^3.5.0",
-    "chalk": "^1.1.3",
-    "mocha": "^2.5.3"
+  "dependencies": { 
   },
   "devDependencies": {
     "grunt": "~0.4.5",
