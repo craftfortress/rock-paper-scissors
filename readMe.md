@@ -9,7 +9,7 @@ To run:
 	Then navigate to the build directory and load "build/index.html" in a browser. 
 
 Tests:
-Just load "test/runner.html" in a browser.
+	Just launch "test/runner.html" in a browser.
 
 Instructions:
 
