@@ -4,8 +4,7 @@
   "description": "Rock, paper Scissors for Ebay",
   "main": "domain='www' server.js",
   "scripts": {
-    "start": "node server",
-    "test": "mocha --timeout 60000 --reporter list"
+    "start": "node server" 
   },
   "author": "Chris",
   "license": "ISC",
