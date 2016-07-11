@@ -1,8 +1,7 @@
 {
   "name": "rockpaperscissors",
   "version": "1.0.0",
-  "description": "Rock, paper Scissors for Ebay", 
-  "scripts": {  },
+  "description": "Rock, paper Scissors for Ebay",  
   "author": "Chris",
   "license": "ISC",
   "dependencies": { 
